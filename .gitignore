@@ -1,0 +1,20 @@
+# Build outputs and local tooling
+build/
+dist/
+out/
+.cache/
+.vscode/
+.idea/
+*.exe
+*.obj
+*.o
+*.pdb
+*.log
+# ROM and local reference assets
+*.sfc
+*.smc
+*.nes
+*.gb
+*.gg
+reference_assets/
+local_roms/
