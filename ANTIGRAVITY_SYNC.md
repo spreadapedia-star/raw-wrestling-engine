@@ -3,8 +3,20 @@
 > **Director:** Jason
 > **Machines:** Desktop PC (`c:\Users\jason\Desktop\WWF project`) ↔ Laptop
 > **Agents:** Gemini (Antigravity) | Claude | ChatGPT
-> **Binary Storage:** Google Drive (`jason.weingarten@gmail.com`, 20 TB quota)
+> **Binary Storage:** Google Drive (`jason.weingarten@gmail.com`, 20 TB quota) — `WWF_SNES_HUB/`
 > **Last Updated:** 2026-11-20 (Desktop Antigravity)
+
+---
+
+## Google Drive Shared Storage (`WWF_SNES_HUB`)
+
+| Folder | Drive Folder ID | Purpose |
+|---|---|---|
+| `WWF_SNES_HUB/` | `1FuqlueZ4x9mo91jWSjXIyqVW7EaAXeV0` | Root hub for all large binaries & archives |
+| `WWF_SNES_HUB/raw_ultimate/` | `1iQWDscHBD5qn4Lpcq4BcSxnMbntdkN0r` | Raw Ultimate builds (`.sfc`, `.msu`, `.pcm`), source zips, sprite archives |
+| `WWF_SNES_HUB/territories/` | `1IASoHeuL9-b7D9D-la3cnjst60QS3AQK` | Territories builds, MSU parts, sprite sheets |
+| `WWF_SNES_HUB/swm/` | `1degoGH03Ef6NMPjO6j85W4RW16kXiKtT` | Super WrestleMania builds & assets |
+| `WWF_SNES_HUB/shared_docs/` | `1LtQSd1fBSVjdDmcGRQuIKYuU-J_sDJIf` | Mirror/backup of `.md` handoffs & reference PDFs |
 
 ---
 
