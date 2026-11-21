@@ -1,0 +1,25 @@
+# Never commit ROMs, MSU/PCM binaries, saves, or large archives
+*.sfc
+*.smc
+*.msu
+*.pcm
+*.srm
+*.bsz
+*.chd
+*.zip
+*.7z
+*.rar
+*.tgz
+*.tar.gz
+*.part*
+*.001
+*.002
+*.pkl
+*.pdf
+*.mp4
+build/
+dist/
+out/
+.cache/
+local_roms/
+reference_assets/
